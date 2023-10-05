@@ -2,6 +2,10 @@
 
 quranRoots.json changelog
 
+## 0.0.4
+
+- Added the root 1918 ( حقف ) to the list
+
 ## 0.0.3
 
 - Added the occurences of the root 10 ( إبليس ) to the the root 200 ( بلس )
