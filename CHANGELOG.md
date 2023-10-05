@@ -2,6 +2,10 @@
 
 quranRoots.json changelog
 
+## 0.0.5
+
+- Added the occurences of the root 43 ( اسباط ) to the the root 752 ( سبط )
+
 ## 0.0.4
 
 - Added the root 1918 ( حقف ) to the list
