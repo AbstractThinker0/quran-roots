@@ -2,6 +2,10 @@
 
 quranRoots.json changelog
 
+## 0.0.7
+
+- Added the occurences of the root 63 ( اقصو ) to the the root 1361 ( قصو )
+
 ## 0.0.6
 
 - Added the occurences of the root 58 ( أعراف ) to the the root 1106 ( عرف )
