@@ -2,6 +2,10 @@
 
 quranRoots.json changelog
 
+## 0.0.6
+
+- Added the occurences of the root 58 ( أعراف ) to the the root 1106 ( عرف )
+
 ## 0.0.5
 
 - Added the occurences of the root 43 ( اسباط ) to the the root 752 ( سبط )
