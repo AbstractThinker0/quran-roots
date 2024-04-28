@@ -2,6 +2,10 @@
 
 quranRoots.json changelog
 
+## 0.0.8
+
+- Added a missing occurrence "1113:4" to the root 43 ( اسباط )
+
 ## 0.0.7
 
 - Added the occurences of the root 63 ( اقصو ) to the the root 1361 ( قصو )
