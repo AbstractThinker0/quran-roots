@@ -2,6 +2,10 @@
 
 quranRoots.json changelog
 
+## 0.0.9
+
+- Added the occurences of the roots 1545 ( ماجوج ) and 1894 ( ياجوج ) to the the root 18 ( اجج )
+
 ## 0.0.8
 
 - Added a missing occurrence "1113:4" to the root 43 ( اسباط )
