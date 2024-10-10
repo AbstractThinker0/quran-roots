@@ -2,6 +2,14 @@
 
 quranRoots.json changelog
 
+## 0.0.11
+
+- Added the root 1919 ( صبء ) to the list
+
+## 0.0.10
+
+- Fixed root 18 ( اجج ) occurences format
+
 ## 0.0.9
 
 - Added the occurences of the roots 1545 ( ماجوج ) and 1894 ( ياجوج ) to the the root 18 ( اجج )
