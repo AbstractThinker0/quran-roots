@@ -6,12 +6,9 @@ quranRoots.json changelog
 
 - Empty.
 
-## 0.0.13
-
-- Added the root 1920 ( رمض ) to the list
-
 ## 0.0.12
 
+- Added the root 1920 ( رمض ) to the list
 - Added missing occurrences of root 1022 ( طاغوت )
 
 ## 0.0.11
