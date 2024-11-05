@@ -2,6 +2,14 @@
 
 quranRoots.json changelog
 
+## Dev
+
+- Empty.
+
+## 0.0.12
+
+- Added missing occurrences of root 1022 ( طاغوت )
+
 ## 0.0.11
 
 - Added the root 1919 ( صبء ) to the list
