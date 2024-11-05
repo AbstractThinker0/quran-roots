@@ -2,9 +2,13 @@
 
 quranRoots.json changelog
 
-## Dev
+## 0.0.dev
 
 - Empty.
+
+## 0.0.13
+
+- Added the root 1920 ( رمض ) to the list
 
 ## 0.0.12
 
