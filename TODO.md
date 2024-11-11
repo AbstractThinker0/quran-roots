@@ -21,8 +21,6 @@
 | <div align="center">الصفا</div>            |                                                  |
 | <div align="center">المروة</div>           |                                                  |
 | <div align="center">الخنزير</div>          |                                                  |
-| <div align="center">رمضان</div>            | <div align="center">رمض</div>                    |
-| <div align="center">المشعر</div>           | <div align="center">شعر</div>                    |
 | <div align="center">زلزل</div>             | <div align="center">زلل</div>                    |
 | <div align="center">طالوت</div>            | <div align="center">طول - طلو</div>              |
 | <div align="center">التابوت</div>          | <div align="center">توب - تبو</div>              |
