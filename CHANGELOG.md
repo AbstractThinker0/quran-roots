@@ -4,6 +4,10 @@ quranRoots.json changelog
 
 ## 0.0.dev
 
+- (Empty)
+
+## 0.0.13
+
 - Added two missing occurrences of root 887 ( شعر )
 
 ## 0.0.12
