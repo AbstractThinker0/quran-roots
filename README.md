@@ -2,6 +2,11 @@
 
 This repository hosts a list of Quranic roots and their derivatives in JSON format: [quranRoots.json](https://github.com/AbstractThinker0/quran-roots/blob/master/quranRoots.json). The list is based on the roots compilation from the Zekr.org App and can be found at [quran-root.txt](https://github.com/AbstractThinker0/quran-roots/blob/master/txt/quran-root.txt), This list is compatible with [Tanzil Project Quran text](https://tanzil.net/download/). Please note that this list has not been verified for accuracy.
 
+An usage example can be found at:
+
+- https://tadabor.pages.dev/roots ( Browse through all the compilation roots and retrieve the verses employed by a root )
+- https://tadabor.pages.dev/inspector ( Browse through the quran with the ability to inspect any word to get its root and the derivations of that root )
+
 # Issues in the original compilation
 
 We have identified a few flaws in the original list:
@@ -13,3 +18,7 @@ We have identified a few flaws in the original list:
 # What's different from the original
 
 Apart from being in JSON format and incorporating some improvements detailed in the [changelog](https://github.com/AbstractThinker0/quran-roots/blob/master/CHANGELOG.md) the list remains identical to the original. Our future goal is to address and resolve all the issues present in the original compilation. For now, these issues have been partially addressed.
+
+# How to get the root of a word
+
+TODO: Outline both common and new methodologies for retrieving a root.
