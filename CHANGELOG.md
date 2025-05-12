@@ -6,6 +6,10 @@ quranRoots.json changelog
 
 - (Empty)
 
+## 0.0.15
+
+- Fixed some incorrect root indexes for root 9594 (و) at verse rank 583
+
 ## 0.0.14
 
 - Added root 1921 (ياسين) to the root list.
