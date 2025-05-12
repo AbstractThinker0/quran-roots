@@ -1,0 +1,26 @@
+{
+  "name": "quran-roots",
+  "version": "0.0.14",
+  "description": "Quran roots",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbstractThinker0/quran-roots.git"
+  },
+  "keywords": [
+    "quran",
+    "roots",
+    "stem",
+    "arabic",
+    "json"
+  ],
+  "author": "AbstractThinker0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbstractThinker0/quran-roots/issues"
+  },
+  "homepage": "https://github.com/AbstractThinker0/quran-roots#readme"
+}
