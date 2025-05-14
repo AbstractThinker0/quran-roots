@@ -6,6 +6,16 @@ quranRoots.json changelog
 
 - (Empty)
 
+- Fixed two occurrences, Moved occurrences ("5296:5") and ("5879:6") from root 1066 (ظلل) to root 1008 (ضلل)
+
+- Added missing occurence ("2770:5") to root 24 ( حضر )
+
+- Added missing occurence ("4013:4") to root 57 ( ضرب )
+
+- Added missing occurences of the root 2999 ("ف"), the verse indexes: ("385:21", "2326:1", "2796:10", "3193:5", "4222:15", "5494:26,49", "5734:1,2")
+
+- Added missing occurences of the root 2649 ("ب"), the verse indexes are: ("578:3", "1158:11", "1721:10", "2826:13", "4721:3", "5725:3", "5988:3")
+
 ## 0.0.15
 
 - Fixed some incorrect root indexes for root 9594 (و) at verse rank 583
