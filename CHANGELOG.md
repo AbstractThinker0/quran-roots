@@ -6,6 +6,8 @@ quranRoots.json changelog
 
 - (Empty)
 
+## 0.0.16
+
 - Fixed two occurrences, Moved occurrences ("5296:5") and ("5879:6") from root 1066 (ظلل) to root 1008 (ضلل)
 
 - Added missing occurence ("2770:5") to root 24 ( حضر )
