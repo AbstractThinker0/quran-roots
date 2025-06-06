@@ -6,6 +6,10 @@ quranRoots.json changelog
 
 - (Empty)
 
+## 0.0.17
+
+- Added the occurrences of the root 776 ( سراب ) to the the root 778 ( سرب )
+
 ## 0.0.16
 
 - Fixed two occurrences, Moved occurrences ("5296:5") and ("5879:6") from root 1066 (ظلل) to root 1008 (ضلل)
