@@ -6,6 +6,10 @@ quranRoots.json changelog
 
 - (Empty)
 
+## 0.0.18
+
+- Added missing occurrence ("3242:11") to root 524 ( ا )
+
 ## 0.0.17
 
 - Added the occurrences of the root 776 ( سراب ) to the the root 778 ( سرب )
